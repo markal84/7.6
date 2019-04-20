@@ -1,4 +1,5 @@
-# Github - praca zespołowa
-https://markal84.github.io/nauka-gita-2/
+﻿# Github - Instalacja i uruchamianie pakietów
 
-Po fakcie zdałem sobie sprawę że pracowałem na złym repo, bo miał być ten wystylowany z tekstem piosenki. Ale podpunkty zadania wykonałem więc to chyba nie problem ?
+Link do screena z merge task-5 do master - nie wyświetla się w commit
+https://pasteboard.co/IaZxDor.png
+
