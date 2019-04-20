@@ -3,6 +3,7 @@ body {
   padding: 1px; }
 
 header {
+  display: -ms-flexbox;
   display: flex; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.prefixed.css.map */
