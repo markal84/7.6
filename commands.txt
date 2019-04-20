@@ -5,5 +5,5 @@ node_modules/.bin/autoprefixer-cli -o scss/main.prefixed.css scss/main.css
 
 #nu-html-checker
 
-node_modules/.bin/nu-html-checker index.html
+node_modules/.bin/nu-html-checker *.html
  
