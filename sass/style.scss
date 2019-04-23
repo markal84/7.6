@@ -4,6 +4,10 @@ body {
 }
 header {
     display: flex;
+    p {
+        font-weight: bold;
+        text-decoration: none;
+    }
 }
 .test {
 	display: flex;
