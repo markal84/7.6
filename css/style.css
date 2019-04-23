@@ -1,0 +1,15 @@
+body {
+  margin: 2px;
+  padding: 2px;
+}
+
+header {
+  display: flex;
+}
+
+.test {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */

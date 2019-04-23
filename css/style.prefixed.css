@@ -1,0 +1,17 @@
+body {
+  margin: 2px;
+  padding: 2px;
+}
+
+header {
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.test {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
